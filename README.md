@@ -9,8 +9,6 @@ Before using the Signup page, ensure that you have a web browser installed on yo
 
 ## Features
 
-### Validation
-
 The Signup page includes the following validations:
 
 1. Username and password fields are required. If the user submits the form without filling in both fields, an appropriate error message is displayed.
