@@ -20,7 +20,7 @@ The Signup page includes the following validations:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/pragzz1238/Sign-Up-Page.git
+   git clone https://github.com/pragzz1238/Signup-Page-with-Validation.git
    ```
 2. Open the index.html file in your web browser.
 3. Fill in the Username and Password fields.
